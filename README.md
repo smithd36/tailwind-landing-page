@@ -11,4 +11,4 @@ To build once run...
 
 - npm run build!
 
-[Screenshot 2023-08-06 004021](https://github.com/smithd36/tailwind-landing-page/assets/90289165/c3b518dc-06c9-42ba-9d1e-ba99fd567f84)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90289165/258625724-c3b518dc-06c9-42ba-9d1e-ba99fd567f84.png" alt="img" />
